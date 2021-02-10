@@ -1,3 +1,3 @@
 # JBMAHS
 
-[https://internship.jetbrains.com/projects/781/](https://internship.jetbrains.com/projects/781/)
+Solution for: [https://internship.jetbrains.com/projects/781/](https://internship.jetbrains.com/projects/781/)
