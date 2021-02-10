@@ -1,6 +1,6 @@
 # JBMAHS
 
-Solution for: [https://internship.jetbrains.com/projects/781/](https://internship.jetbrains.com/projects/781/)
+Solution of test task for "Multi-agent hide and seek" [https://internship.jetbrains.com/projects/781/](https://internship.jetbrains.com/projects/781/), 
 
 It is more comfortable to open notebook with Colab, [https://colab.research.google.com/github/DT6A/JBMAHS/blob/main/JB_MAHS_test.ipynb](https://colab.research.google.com/github/DT6A/JBMAHS/blob/main/JB_MAHS_test.ipynb). 
 
